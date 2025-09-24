@@ -1,4 +1,5 @@
 exclude:
+  - frontEnd/node_modules
   - node_modules
   - vendor
   - Gemfile
