@@ -1,8 +1,1 @@
-exclude:
-  - node_modules
-  - node_modules
-  - vendor
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENSE
+
